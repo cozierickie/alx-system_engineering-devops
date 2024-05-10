@@ -1,0 +1,5 @@
+Task 0: Use a private key: This task requires using SSH to connect to the server using a private key (~/.ssh/school) and the user ubuntu, demonstrating knowledge of SSH and how to authenticate using private keys.
+Task 1: Create an SSH key pair: This task involves writing a Bash script to generate an RSA key pair (school and school.pub) with a passphrase, demonstrating knowledge of RSA key generation.
+Task 2: Client configuration file: This task requires configuring the SSH client (~/.ssh/config) to use the private key and refuse password authentication, demonstrating understanding of SSH client configuration.
+Task 3: Let me in!: This task involves adding a provided SSH public key to the server's authorized_keys file, enabling access for the specified user (ubuntu) using SSH public key authentication.
+Task 4: Client configuration file (w/ Puppet): This task uses Puppet to automate the configuration of the SSH client, ensuring it uses the specified private key and refuses password authentication, demonstrating knowledge of automation with Puppet.
