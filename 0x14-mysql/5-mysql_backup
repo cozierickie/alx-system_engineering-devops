@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# back_up and compress my databases
+# back-up and compress my databases
 
 # variables
 day=$(date +"%d")
